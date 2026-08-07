@@ -33,7 +33,7 @@ The dashboard provides insights into sales performance, customer behavior, produ
 
 ## 📷 Dashboard Preview
 
-![Dashboard](Dashboard_Preview.png)
+https://github.com/shimaacom12346-ui/-Sales-Performance-Dashboard/blob/main/Dashboard_Preview.png.png
 
 ---
 
