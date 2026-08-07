@@ -33,7 +33,7 @@ The dashboard provides insights into sales performance, customer behavior, produ
 
 ## 📷 Dashboard Preview
 
-![Sales Dashboard](Images/Dashboard_Preview.png.png)
+![Sales Dashboard](Dashboard_Preview.png.png)
 
 ---
 
